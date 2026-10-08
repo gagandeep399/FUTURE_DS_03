@@ -1,0 +1,4 @@
+stage_order,stage,customers,conv_from_prev_pct,conv_from_start_pct,dropoff_from_prev_pct
+1,1. Contacted,45211,,100.0,
+2,2. Engaged (call >= 3 min),22674,50.15,50.15,49.85
+3,3. Converted (subscribed),4588,20.23,10.15,79.77

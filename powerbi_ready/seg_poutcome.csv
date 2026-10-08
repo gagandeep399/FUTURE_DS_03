@@ -1,0 +1,5 @@
+poutcome,customers,converted,engaged,avg_duration_sec,conversion_pct,engagement_pct
+success,1511,978,1076,317.0,64.73,71.21
+other,1840,307,928,256.0,16.68,50.43
+failure,4901,618,2414,244.0,12.61,49.26
+unknown,36959,3386,18256,258.0,9.16,49.4

@@ -1,0 +1,5 @@
+balance_band,customers,converted,engaged,avg_duration_sec,conversion_pct,engagement_pct
+5000+,2845,441,1488,276.0,15.5,52.3
+1001-5000,11786,1807,6112,270.0,15.33,51.86
+1-1000,23300,2539,11577,253.0,10.9,49.69
+Negative/0,7280,502,3497,249.0,6.9,48.04

@@ -1,0 +1,4 @@
+marital,customers,converted,engaged,avg_duration_sec,conversion_pct,engagement_pct
+single,12790,1912,6655,266.0,14.95,52.03
+divorced,5207,622,2590,263.0,11.95,49.74
+married,27214,2755,13429,253.0,10.12,49.35
